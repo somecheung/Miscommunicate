@@ -1,4 +1,4 @@
 # Miscommunicate
 instructions on miscommunication between me and my parents
 ...
-	![](Miscommunicate_01_ForGit.jpg)
+	![](ForGit/Miscommunicate_01.jpg)
