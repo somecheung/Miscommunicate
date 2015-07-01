@@ -22,9 +22,7 @@ void promptquestion() {
 ```
 String onelongstring = "";
   for (int i = 0; i < lines.length; i++) {
-    //for(int j = 0; j<lines2.length; j++){
     onelongstring = onelongstring + lines[i] +" "+ notKeyword[indexNotKeyword] +" "+ lines2[index] +" ";
-    //}
     println(lines.length);
     println(i);
   }
@@ -65,7 +63,6 @@ if (notKeyword[indexNotKeyword] == "burrow") {
     fill(150,150,150);
     textAlign(CENTER);
     text(response2, 5*width/8, 2*height/3);
-   // movie.pause();
   }
 ```
 2. Or not at all.
