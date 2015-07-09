@@ -1,5 +1,5 @@
 # Miscommunicate
-instructions on miscommunication between me and my parents 
+instructions on miscommunication between me and someone 
 ...
 
 ###What usually happens is:
